@@ -5,9 +5,9 @@
 The steps are shown below:
 ![alt text](https://github.com/Hann-Zhang/Plasmodium_falciparum_ONT_5mC_calling/blob/main/figures/Pipelines.png)
 
-The examples bash scipts for requred softwares in the pipelines are in the the folder 'bash_scripts'. 
+The examples of bash scripts for required software in the pipelines are in the folder 'bash_scripts'. 
 
-The code files are for parsing Nanopolish output (methylation_calls.csv) and Guppy output (csv files from modbam2bed), calculating methylation levels and making plots. 
+The code files are for parsing Nanopolish output (methylation_calls.csv) and Guppy output (CSV files from modbam2bed), calculating methylation levels and making plots. 
 
 
 
